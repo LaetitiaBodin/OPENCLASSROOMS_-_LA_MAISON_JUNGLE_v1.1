@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/css/main.5cb787c2.chunk.css",
+    "main.js": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/main.1fb2c190.chunk.js",
+    "main.js.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/main.1fb2c190.chunk.js.map",
+    "runtime-main.js": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/runtime-main.55439179.js",
+    "runtime-main.js.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/runtime-main.55439179.js.map",
+    "static/js/2.aeb5ec4a.chunk.js": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/2.aeb5ec4a.chunk.js",
+    "static/js/2.aeb5ec4a.chunk.js.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/2.aeb5ec4a.chunk.js.map",
+    "static/js/3.ddfec576.chunk.js": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/3.ddfec576.chunk.js",
+    "static/js/3.ddfec576.chunk.js.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/3.ddfec576.chunk.js.map",
+    "index.html": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/index.html",
+    "static/css/main.5cb787c2.chunk.css.map": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/css/main.5cb787c2.chunk.css.map",
+    "static/js/2.aeb5ec4a.chunk.js.LICENSE.txt": "/OPENCLASSROOMS_-_LA_MAISON_JUNGLE_v1.1/static/js/2.aeb5ec4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55439179.js",
+    "static/js/2.aeb5ec4a.chunk.js",
+    "static/css/main.5cb787c2.chunk.css",
+    "static/js/main.1fb2c190.chunk.js"
+  ]
+}
